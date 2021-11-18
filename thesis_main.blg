@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: thesis_main.aux
+The style file: plainnat.bst
+A level-1 auxiliary file: preface.aux
+A level-1 auxiliary file: acknowledgements.aux
+A level-1 auxiliary file: abstract.aux
+A level-1 auxiliary file: ./Sections/Chapter1_intro/introduction.aux
+A level-1 auxiliary file: ./Sections/Chapter2_modelling/Chapter2_modelling.aux
+A level-1 auxiliary file: ./Sections/Chapter3_experiments/Experiments.aux
+A level-1 auxiliary file: ./Sections/Chapter4_finalstates/FinalStates.aux
+A level-1 auxiliary file: ./Sections/Chapter6_instability/3d_configs.aux
+A level-1 auxiliary file: ./Sections/Chapter5_multibody/MultibodyBendotaxis1.aux
+A level-1 auxiliary file: ./Sections/Chapter7_conclusion/Conclusion.aux
+Illegal, another \bibstyle command---line 152 of file thesis_main.aux
+ : \bibstyle
+ :          {plain}
+I'm skipping whatever remains of this command
+Database file #1: mybib.bib
+You've used 138 entries,
+            2773 wiz_defined-function locations,
+            1506 strings with 26541 characters,
+and the built_in function-call counts, 68811 in all, are:
+= -- 6163
+> -- 4209
+< -- 67
++ -- 1420
+- -- 1281
+* -- 6083
+:= -- 10631
+add.period$ -- 416
+call.type$ -- 138
+change.case$ -- 831
+chr.to.int$ -- 137
+cite$ -- 276
+duplicate$ -- 2834
+empty$ -- 5474
+format.name$ -- 1501
+if$ -- 14153
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 146
+newline$ -- 698
+num.names$ -- 552
+pop$ -- 1476
+preamble$ -- 1
+purify$ -- 703
+quote$ -- 0
+skip$ -- 2161
+stack$ -- 0
+substring$ -- 3391
+swap$ -- 147
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1473
+warning$ -- 0
+while$ -- 647
+width$ -- 0
+write$ -- 1797
+(There was 1 error message)

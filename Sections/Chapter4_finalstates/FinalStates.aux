@@ -1,0 +1,175 @@
+\relax 
+\@writefile{toc}{\contentsline {chapter}{\numberline {4}Trapped droplets}{60}\protected@file@percent }
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\@writefile{toc}{\contentsline {section}{\numberline {4.1}Geometric trapping}{60}\protected@file@percent }
+\newlabel{S:Ch4:Geometric}{{4.1}{60}}
+\citation{Taroni2012JFM}
+\citation{Taroni2012JFM}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces Schematic diagrams of the possible configurations of a droplet in a deformable channel that is clamped at one end: (a) open ends, (b) touching ends, and (c) sticking ends. We refer to these configurations as regime I, II and III, respectively. }}{61}\protected@file@percent }
+\newlabel{fig:Ch4:Geometric:RegimeSchematics}{{4.1}{61}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1.1}Extended theoretical model}{61}\protected@file@percent }
+\newlabel{S:Ch4:Geometric:Model}{{4.1.1}{61}}
+\newlabel{E:Ch4:Geometric:Model:Regime1_bc}{{4.1}{61}}
+\newlabel{E:Ch4:Geometric:Model:Regime1_necessary_conditions}{{4.2}{61}}
+\citation{Kim2006JFM,Majidi2007MechRes}
+\newlabel{E:Ch4:Geometric:Model:Regime2_bc}{{4.3}{62}}
+\newlabel{E:Ch4:Geometric:Model:Regime2_necessary_conditions}{{4.4}{62}}
+\newlabel{E:Ch4:Geometric:Model:Regime3_bc}{{4.5}{62}}
+\newlabel{E:Ch4:Geometric:Model:flow_eq1}{{4.8}{62}}
+\newlabel{E:Ch4:Geometric:Model:flow_eq3}{{4.10}{62}}
+\@writefile{lot}{\contentsline {table}{\numberline {4.1}{\ignorespaces Boundary conditions on the PDE\nobreakspace  {}\textup  {\hbox {\mathsurround \z@ \normalfont  (\ignorespaces 4.8\hbox {}\unskip \@@italiccorr )}}--\textup  {\hbox {\mathsurround \z@ \normalfont  (\ignorespaces 4.10\hbox {}\unskip \@@italiccorr )}} that describes the coupled channel deflection and droplet motion in a flexible channel with either open ends (regime I), touching ends (regime II), or sticking ends (regime III). Note that subscript $x$ denotes a partial derivative in this table.}}{63}\protected@file@percent }
+\newlabel{T:Ch4:Geometric:BoundaryConditions}{{4.1}{63}}
+\newlabel{E:Ch4:Geometric:Model:kinematic}{{4.11}{63}}
+\newlabel{E:Ch4:Geometric:Model:IC}{{4.12}{63}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1.2}Numerical solutions}{63}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{Modifications to numerical scheme}{64}\protected@file@percent }
+\newlabel{S:Geometry:Numerics}{{4.1.2}{64}}
+\@writefile{toc}{\contentsline {paragraph}{Modification 1: isolating the drop region.}{64}\protected@file@percent }
+\newlabel{E:Ch4:Geometric:Numerics:DryShapeRegimeII}{{4.15}{64}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.2}{\ignorespaces Flowchart of the dynamic events that trigger either a change in boundary conditions or the termination of the integration in numerical solutions of the model equations. The arrow labels indicate the event function that triggers the associated regime change or ends the simulation, and up (down) arrows indicate that the function must increase (decrease, respectively) through the value. Grey labels indicate those events that are included in the model, but are never triggered.}}{65}\protected@file@percent }
+\newlabel{fig:Ch4:Geometric:Flowchart}{{4.2}{65}}
+\newlabel{E:Ch4:Geometric:Numerics:DryShapeRegimeIII}{{4.17}{65}}
+\@writefile{toc}{\contentsline {paragraph}{Modification 2: dynamically adjusting the boundary conditions.}{65}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.3}{\ignorespaces Numerical solutions in which the system is allowed to change regimes. (a) Meniscus trajectories and (b) meniscus velocities obtained by numerically solving the model equations for $\nu = 30$ (left) and $\nu = 100$ (right) (both solutions have $x_{+}^0 = 0.4$, $V = 0.3$ and use $200$ grid points). Solid and dashed curves indicate the `$+$' and `$-$' menisci, respectively; where applicable, dotted curves indicate the contact point $x_c$. (c) Plot of distance of the meniscus to the channel closure: for regimes I and II configurations (left) this is $1 - x_{+}$, for regime III configurations, this is $x_c - x_{+}$. The black dashed curve indicates the fit\nobreakspace  {}\textup  {\hbox {\mathsurround \z@ \normalfont  (\ignorespaces 4.20\hbox {}\unskip \@@italiccorr )}}. Vertical dashed lines indicate transitions between the various contacting conditions.}}{66}\protected@file@percent }
+\newlabel{fig:Ch4:geometric:numerics}{{4.3}{66}}
+\@writefile{toc}{\contentsline {subsubsection}{Dynamics}{66}\protected@file@percent }
+\citation{Gorce2016Langmuir}
+\citation{Reyssat2014JFM}
+\citation{Gorce2016Langmuir}
+\citation{deGennes2004}
+\@writefile{toc}{\contentsline {subsubsection}{Contact time}{67}\protected@file@percent }
+\newlabel{E:Ch4:Geometric:numerics:contact_time}{{4.20}{67}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.2}Trapping with hysteresis}{67}\protected@file@percent }
+\citation{deGennes2004}
+\citation{Prakash2008Science,Bush2010AdvCollIntsci}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.1}Modelling hysteresis}{68}\protected@file@percent }
+\newlabel{S:Ch4:hysteresis:modelling}{{4.2.1}{68}}
+\@writefile{toc}{\contentsline {subsubsection}{Preliminaries}{68}\protected@file@percent }
+\citation{deGennes2004}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.4}{\ignorespaces (a) Schematic diagram illustrating the advancing (top) and receding (bottom) contact angles. When a droplet is being quasi-statically inflated the meniscus evolves through increasing contact angles $\theta < \theta _a$ without the contact line moving. Once $\theta = \theta _a$ the contact line advances. Similarly, when a droplet is being quasi-statically deflated, the meniscus evolves through decreasing contact angles $\theta > \theta _r$. Once $\theta = \theta _r$ the contact line recedes. (b) Plot of $\lambda _{\text  {max}}$ (equation\nobreakspace  {}\textup  {\hbox {\mathsurround \z@ \normalfont  (\ignorespaces 4.21\hbox {}\unskip \@@italiccorr )}}) as a function of $\theta _a - \theta _r$ for various receding angles $\theta _r$. }}{69}\protected@file@percent }
+\newlabel{fig:Ch4:Hysteresis:primer}{{4.4}{69}}
+\newlabel{E:ch4:Hysteresis:Parametrisation:hyspar_def}{{4.21}{69}}
+\newlabel{E:ch4:Hysteresis:Parametrisation:hyspar_dynamic_def}{{4.22}{69}}
+\newlabel{E:ch4:Hysteresis:Parametrisation:modified_nu_def}{{4.23}{70}}
+\@writefile{toc}{\contentsline {subsubsection}{Modified boundary conditions}{70}\protected@file@percent }
+\newlabel{E:ch4:Hysteresis:Parametrisation:kbc_and_laplace}{{4.24}{70}}
+\newlabel{E:ch4:Hysteresis:Parametrisation:BC+_advancing}{{4.25}{70}}
+\newlabel{E:ch4:Hysteresis:Parametrisation:BC+_pinned}{{4.26}{70}}
+\newlabel{E:ch4:Hysteresis:Parametrisation:BC+_receding}{{4.27}{71}}
+\newlabel{E:ch4:Hysteresis:Parametrisation:BC_xleft}{{4.28}{71}}
+\newlabel{E:ch4:Hysteresis:Parametrisation:ic_theta_wetting}{{4.29}{71}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.2}Numerical Solutions}{71}\protected@file@percent }
+\newlabel{S:Ch4:Hysteresis:Numerics}{{4.2.2}{71}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.5}{\ignorespaces Flowchart of the dynamic events that result in a change of boundary conditions in the model equations describing bendotaxis with contact angle hysteresis. The arrow labels indicate the function that triggers the transition, and up (down) arrows indicate that the function must increase (decrease, respectively) through the corresponding value.}}{72}\protected@file@percent }
+\newlabel{fig:Ch4:Hysteresis:Flowchart}{{4.5}{72}}
+\@writefile{toc}{\contentsline {subsubsection}{Modifications to numerical scheme}{72}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{Dynamics}{72}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.6}{\ignorespaces Numerical simulations of bendotaxis with contact angle hysteresis. The plots show (a) the displacement of the menisci away from their initial positions, (b) the normalized meniscus pressure, and (c) the contact angle asymmetry $\lambda $. In each plot, solid curves correspond to results for the `$+$' meniscus while dashed curves correspond to results for the `$-$' meniscus. In each case, $\theta _r = 0\si {\degree }$, and solutions are shown for three different values of the contact angle hysteresis $\lambda _{\text  {max}}$ as follows: $\lambda _{\text  {max}} = 0$ (orange curves, i.e.\nobreakspace  {}no contact angle hysteresis), $\lambda _{\text  {max}} = 0.02$ (green curves, $\theta _a = 10\si {\degree }$ -- relatively small contact angle hysteresis), and $\lambda _{\text  {max}} = 0.04$ (purple curves, $\theta _a = 16\si {\degree }$ -- relatively large contact angle hysteresis). In each case, $\nu = 4, x_{+}^0 = 0.65, V = 0.2$ (i.e. $x_{-}^0= 0.45$). A log-log scale is used in (a) to aid distinction between the curves. The motion can be split into (at most) three temporal regions based on the direction of motion of the menisci; these are referred to as squeezing, pinned $x_{-}$, and translating as indicated at the top of the figure. In (c), the coloured horizontal dashed lines indicate the corresponding value of $\lambda = \lambda _{\text  {max}} $ and the black dashed line indicates $\lambda = \lambda _{\infty }$ -- the contact angle asymmetry that the system would saturate at for $\lambda _{\text  {max}} \gg 1$ (see main text).}}{73}\protected@file@percent }
+\newlabel{fig:Ch4:Hysteresis:ExampleTraces}{{4.6}{73}}
+\@writefile{toc}{\contentsline {paragraph}{Initial behaviour.}{73}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Pinning of $x_{-}$.}{74}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{Discussion of dynamics}{75}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{Effect of droplet initial position}{75}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.7}{\ignorespaces (a) Meniscus position $x_{+}(t)$ and (b) contact angle asymmetry $\lambda $ in simulations of bendotaxis with contact angle hysteresis for various initial meniscus positions in the range $0.5\leq x_{+}^0 \leq 0.9$. For each value of $x_{+}^0 = x_{+}(t = 0)$, $V = 0.2,\nobreakspace  {} \nu = 4,\nobreakspace  {} \lambda _{\text  {max}} = 0.038, \nobreakspace  {}\theta _r = 0\si {\degree }$ (corresponding to an advancing angle $\theta _a = 18\si {\degree }$). Note that droplets starting close to the free end ($x_{+}^0$ sufficiently large) escape, whilst those starting closer to the base are trapped indefinitely.}}{76}\protected@file@percent }
+\newlabel{fig:Ch4:Hysteresis:Numerics:initialpos}{{4.7}{76}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.3}Equilibrium configurations}{76}\protected@file@percent }
+\newlabel{S:Ch4:Hysteresis:Equilibria}{{4.2.3}{76}}
+\@writefile{toc}{\contentsline {subsubsection}{Equations for equilibrium}{76}\protected@file@percent }
+\newlabel{E:Ch4:Hyseresis:Equilibria:Eqs:Beam1}{{4.31}{77}}
+\newlabel{E:Ch4:Hyseresis:Equilibria:Eqs:Beam2}{{4.32}{77}}
+\newlabel{E:Ch4:Hyseresis:Equilibria:Eqs:Beam3}{{4.33}{77}}
+\newlabel{E:Ch4:Hyseresis:Equilibria:Eqs:BeamP}{{4.34}{77}}
+\newlabel{E:Ch4:Hyseresis:Equilibria:Eqs:ClampedBC}{{4.35}{77}}
+\newlabel{E:Ch4:Hyseresis:Equilibria:Eqs:Continuity}{{4.36}{77}}
+\newlabel{E:Ch4:Hyseresis:Equilibria:Eqs:FarEndBCFree}{{4.37}{77}}
+\newlabel{E:Ch4:Hyseresis:Equilibria:Eqs:FarEndBCTouching}{{4.38}{77}}
+\newlabel{E:Ch4:Hyseresis:Equilibria:Eqs:FarEndBCSticking}{{4.39}{77}}
+\newlabel{E:Ch4:Hyseresis:Equilibria:Eqs:Volume}{{4.40}{77}}
+\newlabel{E:Ch4:Hyseresis:Equilibria:Eqs:regimeI_constraint}{{4.41}{77}}
+\newlabel{E:Ch4:Hyseresis:Equilibria:Eqs:regimeII_constraint}{{4.42}{77}}
+\newlabel{E:Ch4:Hyseresis:Equilibria:Eqs:regimeIII_constraint}{{4.43}{77}}
+\newlabel{E:Ch4:Hyseresis:Equilibria:Eqs:hyspar_geometry}{{4.44}{78}}
+\@writefile{toc}{\contentsline {subsubsection}{Equilibria with $X_{-}= 0$}{78}\protected@file@percent }
+\newlabel{E:Ch4:Hyseresis:Equilibria:Eqs:analytic_sol}{{4.45}{78}}
+\newlabel{E:Ch4:Hyseresis:Equilibria:Eqs:analytic_sol_meniscus_position}{{4.46}{78}}
+\newlabel{E:Ch4:Hyseresis:Equilibria:Eqs:analytic_sol_volume}{{4.47}{78}}
+\newlabel{E:Ch4:Hyseresis:Equilibria:Eqs:analytic_sol_open_ends}{{4.48}{78}}
+\@writefile{toc}{\contentsline {subsubsection}{Regime Diagrams}{78}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.8}{\ignorespaces Regime diagram showing regions of $(V, \nu )$ space for which solutions of equations\nobreakspace  {}\textup  {\hbox {\mathsurround \z@ \normalfont  (\ignorespaces 4.31\hbox {}\unskip \@@italiccorr )}}--\textup  {\hbox {\mathsurround \z@ \normalfont  (\ignorespaces 4.40\hbox {}\unskip \@@italiccorr )}} exist with $\lambda _e= 0.3$. The schematic diagrams indicate the shape of the configuration close to that region of parameter space. The black dashed curve indicates\nobreakspace  {}\textup  {\hbox {\mathsurround \z@ \normalfont  (\ignorespaces 4.47\hbox {}\unskip \@@italiccorr )}}, corresponding to regime I equilibria with $X_- = 0$. Insets are close-ups of the main figure at (a) the dashed box, where multiple solutions exist with the same $(\nu , V)$ values, and (b) the region $0 < \nu < 17$, $0<V<1$. Points corresponding to regimes I, II and III are plotted as red, blue and green points, respectively. }}{79}\protected@file@percent }
+\newlabel{fig:Ch4:Hysteresis:ExampleRegimeDiagram}{{4.8}{79}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.9}{\ignorespaces Regime diagram showing regions of $(V, \nu )$ space for which solutions of equations\nobreakspace  {}\textup  {\hbox {\mathsurround \z@ \normalfont  (\ignorespaces 4.31\hbox {}\unskip \@@italiccorr )}}--\textup  {\hbox {\mathsurround \z@ \normalfont  (\ignorespaces 4.40\hbox {}\unskip \@@italiccorr )}} exist for (a) $\lambda _e= 0.01$, (b) $\lambda _e= 0.05$, (c) $\lambda _e= 0.1$, and (d) $\lambda _e= 0.2$. The inset in each plot is as in the main plot, but zoomed into $0 < \nu < 5$. Red and blue regions indicate regime I and II equilibria, respectively, and plot shading indicates the value of the constraint $S_1$ (defined in\nobreakspace  {}\textup  {\hbox {\mathsurround \z@ \normalfont  (\ignorespaces 4.62\hbox {}\unskip \@@italiccorr )}}) according to the colour-bar in (d). The second inset in (d) indicates the growth rates $\sigma $ of perturbations to equilibria with $\lambda _e= 0.2, V = 0.2$, as a function of $\nu $ (i.e. along the vertical dashed line in (d)) with the magenta curve corresponding to solutions of the BVP\nobreakspace  {}\textup  {\hbox {\mathsurround \z@ \normalfont  (\ignorespaces 4.50\hbox {}\unskip \@@italiccorr )}}--\textup  {\hbox {\mathsurround \z@ \normalfont  (\ignorespaces 4.56\hbox {}\unskip \@@italiccorr )}} and the black dashed curve to numerical solutions of the (dynamic) model equations.}}{80}\protected@file@percent }
+\newlabel{fig:Ch4:Hysteresis:RegimeDiagrams}{{4.9}{80}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.10}{\ignorespaces Regime diagrams indicating (a) the value of $\lambda _e$ associated with equilibria in $(X_{+}, \nu )$ space and (b) the value of $X_{+}$ associated with equilibria in $(\lambda _e, \nu )$ space (with $V = 0.3$ in both cases). In (b), no equilibria exist in the white region in the top left and bottom right corners, and the pink line indicates equilibria with $X_{-}= 0$ (equation\nobreakspace  {}\textup  {\hbox {\mathsurround \z@ \normalfont  (\ignorespaces 4.47\hbox {}\unskip \@@italiccorr )}}).}}{82}\protected@file@percent }
+\newlabel{fig:Ch4:Hysteresis:regime_diagrams_xright_and_hyspar_vs_nu}{{4.10}{82}}
+\@writefile{toc}{\contentsline {subsubsection}{Stability}{82}\protected@file@percent }
+\newlabel{E:Ch4:Hyseresis:Equilibria:Stability:perturbation}{{4.49}{82}}
+\newlabel{E:Ch4:Hyseresis:Equilibria:Stability:PDE1}{{4.50}{82}}
+\newlabel{E:Ch4:Hyseresis:Equilibria:Stability:PDE2}{{4.51}{82}}
+\newlabel{E:Ch4:Hyseresis:Equilibria:Stability:kinematic}{{4.56}{83}}
+\newlabel{E:Ch4:Hyseresis:Equilibria:Stability:translatingbc1}{{4.57}{83}}
+\newlabel{E:Ch4:Hyseresis:Equilibria:Stability:translatingbc2}{{4.58}{83}}
+\newlabel{E:Ch4:Hyseresis:Equilibria:Stability:pinnedbc1}{{4.59}{83}}
+\newlabel{E:Ch4:Hyseresis:Equilibria:Stability:pinnedbc2}{{4.60}{83}}
+\newlabel{E:Ch4:Hyseresis:Equilibria:Stability:integrate_once}{{4.61}{84}}
+\newlabel{E:Ch4:Hyseresis:Equilibria:Stability:solvability}{{4.62}{84}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.4}Mobile Droplets}{84}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.11}{\ignorespaces Predictions from the equilibrium calculation of (a) $\lambda _{\text  {max}} ^{\text  {escape}}$ -- the largest value of $\lambda _{\text  {max}} $ at which a droplet with initial position $x_{+}^0$ is able to escape -- and (b) $x_{+}^{0,\text  {escape}}$ -- how far along the channel a droplet must start in order to escape if the contact angle hysteresis is $\lambda _{\text  {max}} $. Both plots correspond to a droplet volume $V = 0.3$. Configurations with $(\lambda _{\text  {max}} , \nu )$ that lie in the hatched region (bottom right) will trap droplets of volume $V = 0.3$, regardless of where they start in the channel. Similarly, $V = 0.3$ droplets will escape channels whose $(\lambda _{\text  {max}} , \nu )$ lie in the striped region (top left), regardless of where they start in the channel; the pink line indicates the prediction\nobreakspace  {}\textup  {\hbox {\mathsurround \z@ \normalfont  (\ignorespaces 4.63\hbox {}\unskip \@@italiccorr )}} for the boundary of this `always escape' region.}}{85}\protected@file@percent }
+\newlabel{fig:xright_and_hyspar_regime_diagrams}{{4.11}{85}}
+\newlabel{E:Ch4:Hysteresis:MobileDroplets:always_escape_bdry}{{4.63}{86}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.12}{\ignorespaces (a) Numerically obtained droplet trajectories (the portion of the channel occupied by the droplet is indicated by the green shaded region) as well as the contact angle difference asymmetry $\lambda $ (purple curve) and contact angle hysteresis $\lambda _{\text  {max}}$ (dashed black line) corresponding to the parameter values at the marked locations (at symbols along dashed lines) in (b). (b) `Escape surface': surface plot of locations of equilibria with $V = 0.2$, interpreted as the boundary between regions of parameters space where droplets will be trapped (below the surface) and regions where droplets will escape (above the surface). Symbols indicate the fate of droplets that start with a particular $x_{+}^0$: $\triangle $: $x_{+}^0 = 0.85$, $\diamond $: $x_{+}^0 = 0.65$, $\square $: $x_{+}^0 = 0.45$. Filled symbols indicate droplets that escaped ($\lambda $ reaches $\lambda _{\text  {max}} $), open symbols indicate droplets that were trapped ($\lambda $ does not reach $\lambda _{\text  {max}} $).}}{87}\protected@file@percent }
+\newlabel{fig:Ch4:Hysteresis:escape_surface}{{4.12}{87}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.13}{\ignorespaces Predictions from the equilibrium calculation of $x_{+}^{0,\text  {escape}}$ -- how far along the channel the droplet must start in order to escape if the contact angle hysteresis is $\lambda _{\text  {max}} $ and bendability is $\nu $ (as in Figure\nobreakspace  {}4.11\hbox {}(b)) for (a) $V = 0.1$, (b) $V = 0.2$, (c) $V = 0.4$, and (d) $V = 0.5$. The colour-bar applies in (d) applies to each plot with the appropriate value of $V$. Configurations with $(\lambda _{\text  {max}} , \nu )$ that lie in the hatched regions (bottom right of each plot) will trap droplets of the corresponding volume, regardless of where they start in the channel. Droplets will escape channels whose $(\lambda _{\text  {max}} , \nu )$ lie in the striped region (top left of each plot), regardless of where they start in the channel. The pink line indicates the prediction\nobreakspace  {}\textup  {\hbox {\mathsurround \z@ \normalfont  (\ignorespaces 4.63\hbox {}\unskip \@@italiccorr )}} for the boundary of `always escape' region (in (a) and (b), this line covers the $y$-axis and is not shown).}}{88}\protected@file@percent }
+\newlabel{fig:Ch4:Hysteresis:nu_dt_variousV}{{4.13}{88}}
+\@writefile{toc}{\contentsline {subsubsection}{Comparison with full numerics}{88}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.14}{\ignorespaces Predictions from the equilibrium calculation (background colour) and numerical solutions of the model equations (circles) for $x_{+}^{0,\text  {escape}}$ with $V = 0.2$. Red markers indicate configurations in which the droplet is always trapped in numerical solutions, regardless of its initial position.}}{89}\protected@file@percent }
+\newlabel{fig:Ch4:Hysteresis:numerics_comparison}{{4.14}{89}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.5}Non-wetting droplets}{89}\protected@file@percent }
+\newlabel{S:Ch4:Hysteresis:NonWetting}{{4.2.5}{89}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.15}{\ignorespaces Boundaries of the regions of $(\lambda _{\text  {max}} , \nu )$ space in which (a) droplets are always trapped in the channel, regardless of their initial position, and (b) droplets always escape the channel, regardless of their initial position (based on locations of equilibria). Each boundary corresponds to a different droplet volume. Arrows indicate which side of the boundary droplets are always trapped or always escape, as appropriate. In both plots, the dashed purple curve shows the reflection $\nu \to -\nu , \lambda _{\text  {max}} \to -\lambda _{\text  {max}} $ of the corresponding boundary for wetting configurations with $V = 0.5$. }}{90}\protected@file@percent }
+\newlabel{fig:Ch4:Hysteresis:trapping_regions_nonwetting}{{4.15}{90}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.3}Summary}{90}\protected@file@percent }
+\citation{Gorce2016Langmuir}
+\@writefile{toc}{\contentsline {section}{\numberline {A}Solving the equations for equilibria}{92}\protected@file@percent }
+\newlabel{A:Ch4:FindingEquilibria}{{A}{92}}
+\newlabel{A:E:Ch4:FindingEquilibria:beam}{{4.64}{92}}
+\newlabel{A:E:Ch4:FindingEquilibria:p0}{{4.65}{92}}
+\newlabel{A:E:Ch4:FindingEquilibria:EffBC_xl1}{{4.66}{92}}
+\newlabel{A:E:Ch4:FindingEquilibria:EffBC_xl2}{{4.67}{92}}
+\newlabel{A:E:Ch4:FindingEquilibria:Volume}{{4.68}{92}}
+\newlabel{A:E:Ch4:FindingEquilibria:EffBC_xu_regimeI}{{4.69}{92}}
+\newlabel{A:E:Ch4:FindingEquilibria:EffBC_xu_regimeII}{{4.70}{92}}
+\newlabel{A:E:Ch4:FindingEquilibria:EffBC_xu_regimeIII}{{4.71}{92}}
+\newlabel{A:E:Ch4:FindingEquilibria:EffBC_xu_regimeIII_xc}{{4.72}{93}}
+\newlabel{A:E:Ch4:FindingEquilibria:Shape}{{4.73}{93}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {A.1}Regimes I and II}{93}\protected@file@percent }
+\newlabel{A:E:Ch4:FindingEquilibria:Regime1_and_2:meniscus_disp_1}{{4.74}{93}}
+\newlabel{A:E:Ch4:FindingEquilibria:Regime1_and_2:meniscus_disp_2}{{4.75}{93}}
+\newlabel{A:E:Ch4:FindingEquilibria:pressure_quadratic1}{{4.76}{93}}
+\newlabel{A:E:Ch4:FindingEquilibria:pressure_quadratic2}{{4.77}{93}}
+\newlabel{A:E:Ch4:FindingEquilibria:master_quadratic}{{4.78}{93}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {A.2}Regime III}{94}\protected@file@percent }
+\@setckpt{./Sections/Chapter4_finalstates/FinalStates}{
+\setcounter{page}{95}
+\setcounter{equation}{78}
+\setcounter{enumi}{0}
+\setcounter{enumii}{0}
+\setcounter{enumiii}{0}
+\setcounter{enumiv}{0}
+\setcounter{footnote}{0}
+\setcounter{mpfootnote}{0}
+\setcounter{part}{0}
+\setcounter{chapter}{4}
+\setcounter{section}{1}
+\setcounter{subsection}{2}
+\setcounter{subsubsection}{0}
+\setcounter{paragraph}{0}
+\setcounter{subparagraph}{0}
+\setcounter{figure}{15}
+\setcounter{table}{1}
+\setcounter{parentequation}{0}
+\setcounter{NAT@ctr}{0}
+\setcounter{@pps}{3}
+\setcounter{@ppsavesec}{0}
+\setcounter{@ppsaveapp}{0}
+}

@@ -1,0 +1,828 @@
+\begin{thebibliography}{138}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Al-Housseiny and Stone(2013)]{AlHousseiny2013PhysFlu}
+T~T Al-Housseiny and H~A Stone.
+\newblock {Controlling viscous fingering in tapered Hele-Shaw cells}.
+\newblock \emph{Phys. Fluids}, 25\penalty0 (9):\penalty0 092102, 2013.
+
+\bibitem[Al-Housseiny et~al.(2012)Al-Housseiny, Tsai, and
+  Stone]{AlHousseiny2012NaturePhysics}
+T~T Al-Housseiny, P~A Tsai, and H~A Stone.
+\newblock {Control of interfacial instabilities using flow geometry}.
+\newblock \emph{Nat. Phys.}, 8\penalty0 (10):\penalty0 747--750, 2012.
+
+\bibitem[Andrews et~al.(2011)Andrews, Eccles, Schofield, and
+  Badyal]{Andrews2011Langmuir}
+H~G Andrews, E~A Eccles, W~C~E Schofield, and J~P~S Badyal.
+\newblock {Three-dimensional hierarchical structures for fog harvesting}.
+\newblock \emph{Langmuir}, 27\penalty0 (7):\penalty0 3798--3802, 2011.
+
+\bibitem[Aristoff et~al.(2011)Aristoff, Duprat, and
+  Stone]{Aristoff2011IntJNonlinMech}
+J~M Aristoff, C~Duprat, and H~A Stone.
+\newblock {Elastocapillary imbibition}.
+\newblock \emph{Int. J. Non-Linear Mech.}, 46\penalty0 (4):\penalty0 648--656,
+  2011.
+
+\bibitem[Attinger and Frankiewicz(2016)]{Attinger2016Nanoscale}
+D~Attinger and C~Frankiewicz.
+\newblock {Texture and wettability of metallic lotus leaves}.
+\newblock \emph{Nanoscale}, 8:\penalty0 3982--3990, 2016.
+
+\bibitem[Barthlott and Neinhuis(1997)]{Barthlott1997Planta}
+W~Barthlott and C~Neinhuis.
+\newblock {Purity of the sacred lotus, or escape from contamination in
+  biological surfaces}.
+\newblock \emph{Planta}, 202:\penalty0 1--8, 1997.
+
+\bibitem[Bico et~al.(1999)Bico, Marzolin, and Qu{\'e}r{\'e}]{Bico1999EPL}
+J~Bico, C~Marzolin, and D~Qu{\'e}r{\'e}.
+\newblock {Pearl drops}.
+\newblock \emph{Europhys. Lett.}, 47\penalty0 (2):\penalty0 220--226, 1999.
+
+\bibitem[Bico et~al.(2001)Bico, Tordeux, and Qu{\'e}r{\'e}]{Bico2001EPL}
+J~Bico, C~Tordeux, and D~Qu{\'e}r{\'e}.
+\newblock {Rough wetting}.
+\newblock \emph{Europhys. Lett.}, 55\penalty0 (2):\penalty0 214--220, 2001.
+
+\bibitem[Bico et~al.(2004)Bico, Roman, Moulin, and Boudaoud]{Bico2004Nature}
+J~Bico, B~Roman, L~Moulin, and A~Boudaoud.
+\newblock {Adhesion: Elastocapillary coalescence in wet hair}.
+\newblock \emph{Nature}, 432\penalty0 (7018):\penalty0 690--690, 2004.
+
+\bibitem[Bico et~al.(2018)Bico, Reyssat, and Roman]{Bico2018AnnRevFluidMech}
+J~Bico, E~Reyssat, and B~Roman.
+\newblock {Elastocapillarity: When surface tension deforms elastic solids}.
+\newblock \emph{Annu. Rev. Fluid Mech.}, 50\penalty0 (1):\penalty0 629--659,
+  2018.
+
+\bibitem[Blossey(2003)]{Blossey2003Nature}
+R~Blossey.
+\newblock {Self-cleaning surfaces {\textemdash} virtual realities}.
+\newblock \emph{Nat. Mater.}, 2\penalty0 (5):\penalty0 301--306, 2003.
+
+\bibitem[Blow and Yeomans(2010)]{Blow2010Langmuir}
+M~L Blow and J~M Yeomans.
+\newblock {Superhydrophobicity on hairy surfaces}.
+\newblock \emph{Langmuir}, 26\penalty0 (20):\penalty0 16071--16083, 2010.
+
+\bibitem[Boreyko and Chen(2009)]{Boreyko2009PRL}
+J~B Boreyko and C-H Chen.
+\newblock {Self-propelled dropwise condensate on superhydrophobic surfaces}.
+\newblock \emph{Phys. Rev. Lett.}, 103\penalty0 (18):\penalty0 184501, 2009.
+
+\bibitem[Boreyko and Chen(2010)]{Boreyko2010PhysFlu}
+J~B Boreyko and C-H Chen.
+\newblock {Self-propelled jumping drops on superhydrophobic surfaces}.
+\newblock \emph{Phys. Flu.}, 22\penalty0 (9):\penalty0 091110, 2010.
+
+\bibitem[Bradley et~al.(2019)Bradley, Box, Hewitt, and Vella]{Bradley2019PRL}
+A~T Bradley, F~Box, I~J Hewitt, and D~Vella.
+\newblock {Wettability-Independent Droplet Transport by Bendotaxis}.
+\newblock \emph{Phys. Rev. Lett.}, 122\penalty0 (7):\penalty0 074503, 2019.
+
+\bibitem[Brzoska et~al.(1993)Brzoska, Brochard-Wyart, and
+  Rondelez]{Brzoska1993Langmuir}
+J~B Brzoska, F~Brochard-Wyart, and F~Rondelez.
+\newblock {Motions of droplets on hydrophobic model surfaces induced by thermal
+  gradients}.
+\newblock \emph{Langmuir}, 9\penalty0 (8):\penalty0 2220--2224, 1993.
+
+\bibitem[Bueno et~al.(2017)Bueno, Bazilevs, Juanes, and Gomez]{Bueno2017EML}
+J~Bueno, Y~Bazilevs, R~Juanes, and H~Gomez.
+\newblock {Droplet motion driven by tensotaxis}.
+\newblock \emph{Extreme Mech. Lett.}, 13:\penalty0 10--16, 2017.
+
+\bibitem[Bueno et~al.(2018)Bueno, Bazilevs, Juanes, and
+  Gomez]{Bueno2018SoftMatter}
+J~Bueno, Y~Bazilevs, R~Juanes, and H~Gomez.
+\newblock {Wettability control of droplet durotaxis}.
+\newblock \emph{Soft Matter}, 14\penalty0 (8):\penalty0 1417--1426, 2018.
+
+\bibitem[Bush and Hu(2006)]{Bush2006AnnRevFluidMech}
+J~W~M Bush and D~L Hu.
+\newblock {Walking on water: biolocomotion at the interface}.
+\newblock \emph{Annu. Rev. Fluid Mech.}, 38:\penalty0 339--369, 2006.
+
+\bibitem[Bush et~al.(2010)Bush, Peaudecerf, Prakash, and
+  Qu{\'e}r{\'e}]{Bush2010AdvCollIntsci}
+J~W~M Bush, F~Peaudecerf, M~Prakash, and D~Qu{\'e}r{\'e}.
+\newblock {On a tweezer for droplets}.
+\newblock \emph{Adv. Colloid Interface Sci}, 161\penalty0 (1-2):\penalty0
+  10--14, 2010.
+
+\bibitem[Canny(1987)]{Canny1987}
+J~Canny.
+\newblock {A computational approach to edge detection}.
+\newblock \emph{IEEE Trans. Pattern Anal. Mach. Intell.}, 6:\penalty0 679--698,
+  1987.
+
+\bibitem[Cassie(1948)]{Cassie1948FaradayDiscuss}
+A~B~D Cassie.
+\newblock {Contact angles}.
+\newblock \emph{Faraday Discuss.}, 3:\penalty0 11--6, 1948.
+
+\bibitem[Cassie and Baxter(1944)]{Cassie1944TransFaraday}
+A~B~D Cassie and S~Baxter.
+\newblock {Wettability of porous surfaces}.
+\newblock \emph{Trans. Faraday. Soc.}, 40:\penalty0 546--6, 1944.
+
+\bibitem[Chakrapani et~al.(2004)Chakrapani, Wei, and
+  Carrillo]{Chakrapani2004PNAS}
+N~Chakrapani, B~Wei, and A~Carrillo.
+\newblock {Capillarity-driven assembly of two-dimensional cellular carbon
+  nanotube foams}.
+\newblock \emph{Proc. Nat. Acad. Sci.}, 101\penalty0 (12):\penalty0 4009--4012,
+  2004.
+
+\bibitem[Chandra and Yang(2009)]{Chandra2009Langmuir}
+D~Chandra and S~Yang.
+\newblock {Capillary-force-induced clustering of micropillar arrays: Is it
+  caused by isolated capillary bridges or by the lateral capillary meniscus
+  interaction force?}
+\newblock \emph{Langmuir}, 25\penalty0 (18):\penalty0 10430--10434, 2009.
+
+\bibitem[Chandra and Yang(2010)]{Chandra2010AccChemRes}
+D~Chandra and S~Yang.
+\newblock {Stability of high-aspect-ratio micropillar arrays against Adhesive
+  and Capillary Forces}.
+\newblock \emph{Acc. Chem. Res.}, 43\penalty0 (8):\penalty0 1080--1091, 2010.
+
+\bibitem[Chaudhury and Whitesides(1992)]{Chaudhury1992Science}
+M~K Chaudhury and G~M Whitesides.
+\newblock {How to make water run uphill}.
+\newblock \emph{Science}, 256\penalty0 (5063):\penalty0 1539--1541, 1992.
+
+\bibitem[Chen et~al.(2018)Chen, Cong, Qi, Jin, and Choy]{Chen2018PLOSone}
+T~Chen, Q~Cong, Y~Qi, J~Jin, and K-L Choy.
+\newblock {Hydrophobic durability characteristics of butterfly wing surface
+  after freezing cycles towards the design of nature inspired anti-icing
+  surfaces}.
+\newblock \emph{PLOS ONE}, 13\penalty0 (1), 2018.
+
+\bibitem[Cheng and Rodak(2005)]{Cheng2005aAPL}
+Y-T Cheng and D~E Rodak.
+\newblock {Is the lotus leaf superhydrophobic?}
+\newblock \emph{Appl. Phys. Lett.}, 86\penalty0 (14):\penalty0 144101--4, 2005.
+
+\bibitem[Cheng et~al.(2005)Cheng, Rodak, Angelopoulos, and
+  Gacek]{Cheng2005bAPL}
+Y-T Cheng, D~E Rodak, A~Angelopoulos, and T~Gacek.
+\newblock {Microscopic observations of condensation of water on lotus leaves}.
+\newblock \emph{Appl. Phys. Lett.}, 87\penalty0 (19):\penalty0 194112--4, 2005.
+
+\bibitem[Chiodi et~al.(2010)Chiodi, Roman, and Bico]{Chiodi2010EPL}
+F~Chiodi, B~Roman, and J~Bico.
+\newblock {Piercing an interface with a brush: Collaborative stiffening}.
+\newblock \emph{Europhys. Lett.}, 90\penalty0 (4):\penalty0 44006--7, 2010.
+
+\bibitem[Cottington et~al.(1964)Cottington, Murphy, and
+  Singleterry]{COTTINGTON1964}
+R~L Cottington, C~M Murphy, and C~R Singleterry.
+\newblock {Effect of polar-nonpolar additives on oil spreading on solids, with
+  applications to nonspreading oils}.
+\newblock In \emph{Contact Angle, Wettability, and Adhesion}. American Chemical
+  Society, Washington, D.C., 1964.
+
+\bibitem[Daniel et~al.(2001)Daniel, Chaudhury, and Chen]{Daniel2001Science}
+S~Daniel, M~K Chaudhury, and J~C Chen.
+\newblock {Fast drop movements resulting from the phase change on a gradient
+  surface}.
+\newblock \emph{Science}, 291\penalty0 (5504), 2001.
+
+\bibitem[de~Gennes(1985)]{deGennes1985RevModPhy}
+P-G de~Gennes.
+\newblock {Wetting: statics and dynamics}.
+\newblock \emph{Rev. Mod. Phys.}, 57.3:\penalty0 827--863, 1985.
+
+\bibitem[de~Gennes et~al.(2004)de~Gennes, Brochard-Wyart, and
+  Quere]{deGennes2004}
+P-G de~Gennes, F~Brochard-Wyart, and D~Quere.
+\newblock \emph{{Capillarity and Wetting Phenomena: Drops, Bubbles, Pearls,
+  Waves}}.
+\newblock Springer, 2004.
+
+\bibitem[De~Volder and Hart(2013)]{DeVolder2013Angewandte}
+M~De~Volder and A~J Hart.
+\newblock {Engineering hierarchical nanostructures by elastocapillary
+  self-assembly}.
+\newblock \emph{Angew. Chem.}, 52\penalty0 (9):\penalty0 2412--2425, 2013.
+
+\bibitem[Dorrer and R{\"u}he(2007)]{Dorrer2007Langmuir}
+C~Dorrer and J~R{\"u}he.
+\newblock {Condensation and wetting transitions on microstructured
+  ultrahydrophobic Surfaces}.
+\newblock \emph{Langmuir}, 23\penalty0 (7):\penalty0 3820--3824, 2007.
+
+\bibitem[Dos~Santos and Ondar{\c c}uhu(1995)]{DosSantos1995PRL}
+F~D Dos~Santos and T~Ondar{\c c}uhu.
+\newblock {Free-running droplets}.
+\newblock \emph{Phys. Rev. Lett.}, 75\penalty0 (16):\penalty0 2972, 1995.
+
+\bibitem[Duprat et~al.(2011)Duprat, Aristoff, and Stone]{Duprat2011JFM}
+C~Duprat, J~M Aristoff, and H~A Stone.
+\newblock {Dynamics of elastocapillary rise}.
+\newblock \emph{J. Fluid Mech.}, 679:\penalty0 641--654, 2011.
+
+\bibitem[Duprat et~al.(2012)Duprat, Protiere, Beebe, and
+  Stone]{Duprat2012Nature}
+C~Duprat, S~Protiere, A~Y Beebe, and H~A Stone.
+\newblock {Wetting of flexible fibre arrays}.
+\newblock \emph{Nature}, 482\penalty0 (7386):\penalty0 510--513, 2012.
+
+\bibitem[Elettro et~al.(2016)Elettro, Neukirch, Vollrath, and
+  Antkowiak]{Elettro2016PNAS}
+H~Elettro, S~Neukirch, F~Vollrath, and A~Antkowiak.
+\newblock {In-drop capillary spooling of spider capture thread inspires hybrid
+  fibers with mixed solid{\textendash}liquid mechanical properties}.
+\newblock \emph{Proc. Natl. Acad. Sci.}, 113\penalty0 (22):\penalty0
+  6143--6147, 2016.
+
+\bibitem[Flitton and King(2004)]{Flitton2004EJApplMech}
+J.~C. Flitton and J.~R. King.
+\newblock Moving-boundary and fixed-domain problems for a sixth-order thin-film
+  equation.
+\newblock \emph{Eur. J. Appl. Math.}, 15\penalty0 (6):\penalty0 713–754,
+  2004.
+
+\bibitem[Gallardo et~al.(1999)Gallardo, Gupta, Eagerton, Jong, Craig, Shah, and
+  Abbott]{Gallardo1999Science}
+B~S Gallardo, V~K Gupta, F~D Eagerton, L~I Jong, V~S Craig, R~R Shah, and N~L
+  Abbott.
+\newblock {Electrochemical principles for active control of liquids on
+  submillimeter scales}.
+\newblock \emph{Science}, 283\penalty0 (5398):\penalty0 57--60, 1999.
+
+\bibitem[Gao and Jiang(2004)]{Gao2004Nature}
+X~Gao and L~Jiang.
+\newblock {Water-repellent legs of water striders}.
+\newblock \emph{Nature}, 432:\penalty0 36, 2004.
+
+\bibitem[Gat and Gharib(2013)]{Gat2013JFM}
+A~D Gat and M~Gharib.
+\newblock {Elasto-capillary coalescence of multiple parallel sheets}.
+\newblock \emph{J. Fluid Mech.}, 723:\penalty0 692--705, 2013.
+
+\bibitem[Gorce et~al.(2016)Gorce, Hewitt, and Vella]{Gorce2016Langmuir}
+J-B Gorce, I~J Hewitt, and D~Vella.
+\newblock {Capillary imbibition into converging tubes: beating
+  Washburn{\textquoteright}s law and the optimal imbibition of liquids}.
+\newblock \emph{Langmuir}, 32\penalty0 (6):\penalty0 1560--1567, 2016.
+
+\bibitem[Guan et~al.(2017)Guan, Ruiz-Guti{\'e}rrez, Xu, Wood, McHale,
+  Ledesma-Aguilar, and Wells]{Guan2017SoftMatter}
+J~H Guan, {\'E}~Ruiz-Guti{\'e}rrez, B~B Xu, D~Wood, G~McHale,
+  R~Ledesma-Aguilar, and G~G Wells.
+\newblock {Drop transport and positioning on lubricant-impregnated surfaces}.
+\newblock \emph{Soft Matter}, 13:\penalty0 3404--3410, 2017.
+
+\bibitem[Hadjittofis et~al.(2016)Hadjittofis, Lister, Singh, and
+  Vella]{Hadjittofis2016JFM}
+A~Hadjittofis, J~R Lister, K~Singh, and D~Vella.
+\newblock {Evaporation effects in elastocapillary aggregation}.
+\newblock \emph{J. Fluid Mech.}, 792:\penalty0 168--185, 2016.
+
+\bibitem[Hauksbee(1710)]{Hauksbee1710iii}
+F~Hauksbee.
+\newblock iii. an account of an experiment touching the direction of a drop of
+  oil of oranges, between two glass planes, towards any side of them that is
+  nearest press'd together.
+\newblock \emph{Philos. Trans. Royal Soc.}, 27\penalty0 (332):\penalty0
+  395--396, 1710.
+
+\bibitem[Hintze and Nelson(1998)]{Hintze1998AmStat}
+J~L Hintze and R~D Nelson.
+\newblock {Violin plots: A box plot-density trace synergism}.
+\newblock \emph{Am. Stat.}, 52\penalty0 (2):\penalty0 181--184, May 1998.
+
+\bibitem[Howell et~al.(2009)Howell, Kozyreff, and Ockendon]{Howell2009}
+P~Howell, G~Kozyreff, and J~Ockendon.
+\newblock \emph{{Applied Solid Mechanics}}.
+\newblock Cambridge University Press, Cambridge, 2009.
+
+\bibitem[Howell et~al.(2016)Howell, Kim, Popova, and Stone]{Howell2016JFM}
+P~D Howell, H~Kim, M~G Popova, and H~A Stone.
+\newblock {Rivulet flow over a flexible beam}.
+\newblock \emph{J. Fluid Mech.}, 796:\penalty0 285--305, 2016.
+
+\bibitem[Hu and Larson(2002)]{Hu2002JPhysChemB}
+H~Hu and R~G Larson.
+\newblock {Evaporation of a sessile droplet on a substrate}.
+\newblock \emph{J. Phys. Chem. B}, 106\penalty0 (6):\penalty0 1334--1344, 2002.
+
+\bibitem[Ichimura et~al.(2000)Ichimura, Oh, and Nakagawa]{Ichimura2000Science}
+K~Ichimura, S-K Oh, and M~Nakagawa.
+\newblock {Light-driven motion of liquids on a photoresponsive surface}.
+\newblock \emph{Science}, 288\penalty0 (5471):\penalty0 1624--1626, 2000.
+
+\bibitem[John et~al.(2005)John, B{\"a}r, and Thiele]{John2005EPJE}
+K~John, M~B{\"a}r, and U~Thiele.
+\newblock {Self-propelled running droplets on solid substrates driven by
+  chemical reactions}.
+\newblock \emph{Eur. Phys. J. E.}, 18\penalty0 (2):\penalty0 183--199, 2005.
+
+\bibitem[Karpitschka et~al.(2016)Karpitschka, Pandey, Lubbers, Weijs, Botto,
+  Das, Andreotti, and Snoeijer]{Karpitschka2016PNAS}
+S~Karpitschka, A~Pandey, L~A Lubbers, J~H Weijs, L~Botto, S~Das, B~Andreotti,
+  and J~H Snoeijer.
+\newblock {Liquid drops attract or repel by the inverted Cheerios effect}.
+\newblock \emph{Proc. Natl. Acad. Sci.}, 113\penalty0 (27):\penalty0
+  7403--7407, 2016.
+
+\bibitem[Keiser et~al.(2017)Keiser, Keiser, Clanet, and
+  Qu{\'e}r{\'e}]{Keiser2017SoftMatter}
+A~Keiser, L~Keiser, C~Clanet, and D~Qu{\'e}r{\'e}.
+\newblock {Drop friction on liquid-infused materials}.
+\newblock \emph{Soft Matter}, 13\penalty0 (39):\penalty0 6981--6987, 2017.
+
+\bibitem[Keiser et~al.(2016)Keiser, Herbaut, Bico, and Reyssat]{Keiser2016JFM}
+L~Keiser, R~Herbaut, J~Bico, and E~Reyssat.
+\newblock {Washing wedges: capillary instability in a gradient of confinement}.
+\newblock \emph{J. Fluid Mech.}, 790:\penalty0 619--633, 2016.
+
+\bibitem[Kierzenka and Shampine(2001)]{Kierzenka2001BVP}
+J~Kierzenka and L~F Shampine.
+\newblock {A BVP solver based on residual control and the MATLAB PSE}.
+\newblock \emph{ACM Trans. Math. Softw.}, 27\penalty0 (3):\penalty0 299--316,
+  2001.
+
+\bibitem[Kim and Mahadevan(2006)]{Kim2006JFM}
+H-Y Kim and L~Mahadevan.
+\newblock {Capillary rise between elastic sheets}.
+\newblock \emph{J. Fluid Mech.}, 548:\penalty0 141--150, 2006.
+
+\bibitem[Kim et~al.(2016)Kim, Kim, and Kim]{Kim2016PhysFluids}
+T-H Kim, Jl~Kim, and H-Y Kim.
+\newblock {Evaporation-driven clustering of microscale pillars and lamellae}.
+\newblock \emph{Phys. Fluids}, 28\penalty0 (2):\penalty0 022003, 2016.
+
+\bibitem[Lafuma and Qu{\'e}r{\'e}(2003)]{Lafuma2003NatureMat}
+A~Lafuma and D~Qu{\'e}r{\'e}.
+\newblock {Superhydrophobic states}.
+\newblock \emph{Nat. Mater.}, 2\penalty0 (7):\penalty0 457--460, 2003.
+
+\bibitem[Landau and Levich(1942)]{Landau1942}
+L~D Landau and V~G Levich.
+\newblock {Dragging of a liquid by a moving plate}.
+\newblock \emph{Acta Physicochim. USSR}, 17:\penalty0 42--54, 1942.
+
+\bibitem[Laplace(1799)]{Laplace1799}
+P~S Laplace.
+\newblock \emph{Trait{\'e} de m{\'e}canique c{\'e}leste}, volume~1.
+\newblock de l'Imprimerie de Crapelet, 1799.
+
+\bibitem[Leal(2007)]{Leal2007}
+L~G Leal.
+\newblock \emph{{Advanced Transport Phenomena}}.
+\newblock Fluid Mechanics and Convective Transport Processes. Cambridge
+  University Press, 2007.
+
+\bibitem[Ledesma-Aguilar et~al.(2017)Ledesma-Aguilar, Laghezza, Yeomans, and
+  Vella]{LedesmaAguilar2017SoftMatter}
+R~Ledesma-Aguilar, G~Laghezza, J~M Yeomans, and D~Vella.
+\newblock {Using evaporation to control capillary instabilities in
+  micro-systems}.
+\newblock \emph{Soft Matter}, 13\penalty0 (47):\penalty0 8947--8956, 2017.
+
+\bibitem[Lee and Kim(2009)]{Lee2009JFM}
+D-G Lee and H-Y Kim.
+\newblock {The role of superhydrophobicity in the adhesion of a floating
+  cylinder}.
+\newblock \emph{J. Fluid Mech.}, 624:\penalty0 23--32, 2009.
+
+\bibitem[Lippmann(1875)]{Lippmann1875}
+G~Lippmann.
+\newblock \emph{Relations entre les ph{\'e}nom{\`e}nes {\'e}lectriques et
+  capillaires}.
+\newblock PhD thesis, Gauthier-Villars Paris, France:, 1875.
+
+\bibitem[Liu and Jiang(2011)]{Liu2011Nanoscale}
+K~Liu and L~Jiang.
+\newblock {Metallic surfaces with special wettability}.
+\newblock \emph{Nanoscale}, 3\penalty0 (3):\penalty0 825--14, 2011.
+
+\bibitem[Liu and Jiang(2012)]{Liu2012AnnRevMaterSci}
+K~Liu and L~Jiang.
+\newblock {Bio-inspired self-cleaning surfaces}.
+\newblock \emph{Annu. Rev. Mater. Sci.}, 42\penalty0 (1):\penalty0 231--263,
+  2012.
+
+\bibitem[Lo et~al.(2000)Lo, Wang, Dembo, and Wang]{Lo2000Biophys}
+C-M Lo, H-B Wang, M~Dembo, and Y~Wang.
+\newblock {Cell movement is guided by the rigidity of the substrate}.
+\newblock \emph{Biophys. J.}, 79\penalty0 (1):\penalty0 144--152, 2000.
+
+\bibitem[Lorenceau and Qu{\'e}r{\'e}(1999)]{Lorenceau1999JFM}
+L~Lorenceau and D~Qu{\'e}r{\'e}.
+\newblock {Drops on a conical wire}.
+\newblock \emph{J. Fluid Mech.}, 510:\penalty0 29--45, 1999.
+
+\bibitem[Lv et~al.(2014)Lv, Chen, Chuang, Tseng, Yin, Grey, and
+  Zheng]{Lv2014PRL}
+C~Lv, C~Chen, Y-C Chuang, F-G Tseng, Y~Yin, F~Grey, and Q~Zheng.
+\newblock {Substrate curvature gradient drives rapid droplet motion}.
+\newblock \emph{Phys. Rev. Lett.}, 113\penalty0 (2):\penalty0 026101, 2014.
+
+\bibitem[Ma and Hill(2006)]{Ma2006CurrOpCollSci}
+M~Ma and R~M Hill.
+\newblock {Superhydrophobic surfaces}.
+\newblock \emph{Curr. Opin. Colloid Interface Sci.}, 11\penalty0 (4):\penalty0
+  193--202, 2006.
+
+\bibitem[Majidi(2007)]{Majidi2007MechRes}
+C~Majidi.
+\newblock {Remarks on formulating an adhesion problem using
+  Euler{\textquoteright}s elastica}.
+\newblock \emph{Mech. Res. Comm.}, 34\penalty0 (1):\penalty0 85--90, 2007.
+
+\bibitem[Marmur(2004)]{Marmur2004Langmuir}
+A~Marmur.
+\newblock {The lotus effect:~superhydrophobicity and metastability}.
+\newblock \emph{Langmuir}, 20\penalty0 (9):\penalty0 3517--3519, 2004.
+
+\bibitem[Mastrangelo and Hsu(1993)]{Mastrangelo1993JMEMS}
+C~H Mastrangelo and C~H Hsu.
+\newblock {Mechanical stability and adhesion of microstructures under capillary
+  forces-part I: Basic theory}.
+\newblock \emph{J. Microelectromech. Sys.}, 2(1):\penalty0 33--43, 1993.
+
+\bibitem[McCarthy et~al.(2019)McCarthy, Vella, and
+  Castrejon-Pita]{McCarthy2019SoftMatter}
+J~McCarthy, D~Vella, and A~A Castrejon-Pita.
+\newblock {Dynamics of droplets on cones: self-propulsion due to curvature
+  gradients}.
+\newblock \emph{Soft Matter}, 15\penalty0 (48):\penalty0 9997--10004, 2019.
+
+\bibitem[McHale et~al.(2010)McHale, Newton, and
+  Shirtcliffe]{McHale2010SoftMatter}
+G~McHale, M~I Newton, and N~J Shirtcliffe.
+\newblock {Immersed superhydrophobic surfaces: Gas exchange, slip and drag
+  reduction properties}.
+\newblock \emph{Soft Matter}, 6\penalty0 (4):\penalty0 714--719, 2010.
+
+\bibitem[McHale et~al.(2019)McHale, Orme, Wells, and
+  Ledesma-Aguilar]{McHale2019Langmuir}
+G~McHale, B~V Orme, G~G Wells, and R~Ledesma-Aguilar.
+\newblock {Apparent contact angles on lubricant-impregnated surfaces/SLIPS:
+  From superhydrophobicity to electrowetting}.
+\newblock \emph{Langmuir}, 35\penalty0 (11):\penalty0 4197--4204, 2019.
+
+\bibitem[Meuler et~al.(2010)Meuler, McKinley, and Cohen]{Meuler2010ACSnano}
+A~J Meuler, G~H McKinley, and R~E Cohen.
+\newblock {Exploiting topographical texture to impart icephobicity}.
+\newblock \emph{ACS Nano}, 4\penalty0 (12):\penalty0 7048--7052, 2010.
+
+\bibitem[Michielsen et~al.(2011)Michielsen, Zhang, Du, and
+  Lee]{Michielsen2011Langmuir}
+S~Michielsen, J~Zhang, J~Du, and H~J Lee.
+\newblock {Gibbs free energy of liquid drops on conical fibers}.
+\newblock \emph{Langmuir}, 27\penalty0 (19):\penalty0 11867--11872, 2011.
+
+\bibitem[Mouterde et~al.(2017)Mouterde, Lehoucq, Xavier, Checco, Black, Rahman,
+  Midavaine, Clanet, and Qu{\'e}r{\'e}]{Mouterde2017NatMater}
+T~Mouterde, G~Lehoucq, S~Xavier, A~Checco, C~T Black, A~Rahman, T~Midavaine,
+  C~Clanet, and D~Qu{\'e}r{\'e}.
+\newblock {Antifogging abilities of model nanotextures}.
+\newblock \emph{Nat. Mater.}, 16\penalty0 (6):\penalty0 658--663, 2017.
+
+\bibitem[Mugele and Baret(2005)]{Mugele2005JPhysCond}
+F~Mugele and J-C Baret.
+\newblock {Electrowetting: from basics to applications}.
+\newblock \emph{J. Phys. Condens. Matter}, 17\penalty0 (28):\penalty0
+  R705--R774, 2005.
+
+\bibitem[Neinhuis and Barthlott(1997)]{Neinhuis1997AnnBot}
+C~Neinhuis and W~Barthlott.
+\newblock {Characterization and distribution of water-repellent, self-cleaning
+  plant surfaces}.
+\newblock \emph{Ann. Bot.}, pages 1--11, 1997.
+
+\bibitem[Pini et~al.(2016)Pini, Ruz, Kosaka, Malvar, Calleja, and
+  Tamayo]{Pini2016SciRep}
+V~Pini, J~J Ruz, P~M Kosaka, O~Malvar, M~Calleja, and J~Tamayo.
+\newblock {How two-dimensional bending can extraordinarily stiffen thin
+  sheets}.
+\newblock \emph{Sci. Rep}, 6\penalty0 (1):\penalty0 33--6, 2016.
+
+\bibitem[Plateau(1873)]{Plateau1873}
+J~Plateau.
+\newblock \emph{{Statique exp{\'e}rimentale et th{\'e}or{\'e}tique des liquides
+  soumis aux seules forces mol{\'e}culaires}}.
+\newblock Gautier-Villars, Paris, 1873.
+
+\bibitem[Pokroy et~al.(2009)Pokroy, Kang, Mahadevan, and
+  Aizenberg]{Pokroy2009Science}
+B~Pokroy, S~H Kang, L~Mahadevan, and J~Aizenberg.
+\newblock {Self-organization of a mesoscale bristle into ordered, hierarchical
+  helical assemblies}.
+\newblock \emph{Science}, 323\penalty0 (5911), 2009.
+
+\bibitem[Prakash et~al.(2008)Prakash, Qu{\'e}r{\'e}, and
+  Bush]{Prakash2008Science}
+M~Prakash, D~Qu{\'e}r{\'e}, and J~W~M Bush.
+\newblock {Surface tension transport of prey by feeding shorebirds: The
+  capillary ratchet}.
+\newblock \emph{Science}, 320\penalty0 (5878):\penalty0 931--934, 2008.
+
+\bibitem[Pratap et~al.(2008)Pratap, Moumen, and
+  Subramanian]{Pratap2008Langmuir}
+V~Pratap, N~Moumen, and R~S Subramanian.
+\newblock {Thermocapillary motion of a liquid drop on a horizontal solid
+  surface}.
+\newblock \emph{Langmuir}, 24\penalty0 (9):\penalty0 5185--5193, 2008.
+
+\bibitem[Proti{\`e}re et~al.(2010)Proti{\`e}re, Bazant, Weitz, and
+  Stone]{Protiere2010EPL}
+S~Proti{\`e}re, M~Z Bazant, D~A Weitz, and H~A Stone.
+\newblock {Droplet breakup in flow past an obstacle: A capillary instability
+  due to permeability variations}.
+\newblock \emph{Europhys. Lett.}, 92\penalty0 (5):\penalty0 54002--7, 2010.
+
+\bibitem[Py et~al.(2007{\natexlab{a}})Py, Bastien, Bico, Roman, and
+  Boudaoud]{Py2007EPL}
+C~Py, R~Bastien, J~Bico, B~Roman, and A~Boudaoud.
+\newblock {3D aggregation of wet fibers}.
+\newblock \emph{Europhys. Lett.}, 77\penalty0 (4):\penalty0 44005--6,
+  2007{\natexlab{a}}.
+
+\bibitem[Py et~al.(2007{\natexlab{b}})Py, Reverdy, Doppler, Bico, Roman, and
+  Baroud]{Py2007PRL}
+C~Py, P~Reverdy, L~Doppler, J~Bico, B~Roman, and C~N Baroud.
+\newblock {Capillary Origami: Spontaneous Wrapping of a Droplet with an Elastic
+  Sheet}.
+\newblock \emph{Phys. Rev. Lett.}, 98\penalty0 (15):\penalty0 156103,
+  2007{\natexlab{b}}.
+
+\bibitem[Qu{\'e}r{\'e}(2005)]{Quere2005RepProgPhys}
+D~Qu{\'e}r{\'e}.
+\newblock {Non-sticking drops}.
+\newblock \emph{Rep. Prog. Phys.}, 68\penalty0 (11):\penalty0 2495--2532, 2005.
+
+\bibitem[Rayleigh(1879)]{Rayleigh1879PRSL}
+L~Rayleigh.
+\newblock {On the capillary phenomena of jets}.
+\newblock \emph{Proc. R. Soc. London}, 29\penalty0 (71), 1879.
+
+\bibitem[Rayleigh(1892)]{Rayleigh1892PhilosMag}
+L~Rayleigh.
+\newblock {On the instability of a cylinder of viscous liquid under capillary
+  force}.
+\newblock \emph{Philos. Mag.}, 34\penalty0 (207):\penalty0 145--154, 1892.
+
+\bibitem[Reddy(2006)]{Reddy2006}
+J~N Reddy.
+\newblock \emph{Theory and analysis of elastic plates and shells}.
+\newblock CRC press, 2006.
+
+\bibitem[Renvois{\'e} et~al.(2009)Renvois{\'e}, Bush, Prakash, and
+  Qu{\'e}r{\'e}]{Renvoise2009EPL}
+P~Renvois{\'e}, J~W~M Bush, M~Prakash, and D~Qu{\'e}r{\'e}.
+\newblock {Drop propulsion in tapered tubes}.
+\newblock \emph{Europhys. Lett.}, 86\penalty0 (6):\penalty0 64003--6, 2009.
+
+\bibitem[Reyssat(2014)]{Reyssat2014JFM}
+E~Reyssat.
+\newblock {Drops and bubbles in wedges}.
+\newblock \emph{J. Fluid Mech.}, 748:\penalty0 641--662, 2014.
+
+\bibitem[Roman and Bico(2010)]{Roman2010JPhysCond}
+B~Roman and J~Bico.
+\newblock {Elasto-capillarity: deforming an elastic structure with a liquid
+  droplet}.
+\newblock \emph{J. Phys. Condens. Matter}, 22\penalty0 (49):\penalty0 493101,
+  2010.
+
+\bibitem[Ruiz-Guti{\'e}rrez et~al.(2017)Ruiz-Guti{\'e}rrez, Guan, Xu, McHale,
+  Wells, and Ledesma-Aguilar]{RuizGutierrez2017PRL}
+{\'E}~Ruiz-Guti{\'e}rrez, J~H Guan, B~Xu, G~McHale, G~G Wells, and
+  R~Ledesma-Aguilar.
+\newblock {Energy invariance in capillary systems}.
+\newblock \emph{Phys. Rev. Lett.}, 118\penalty0 (21):\penalty0 218003--5, 2017.
+
+\bibitem[Schellenberger et~al.(2015)Schellenberger, Xie, Encinas, Hardy,
+  Klapper, Papadopoulos, Butt, and Vollmer]{Schellenberger2015SoftMatter}
+F~Schellenberger, J~Xie, N~Encinas, A~Hardy, M~Klapper, P~Papadopoulos, H-J
+  Butt, and D~Vollmer.
+\newblock {Direct observation of drops on slippery lubricant-infused surfaces}.
+\newblock \emph{Soft Matter}, 11\penalty0 (38):\penalty0 7617--7626, 2015.
+
+\bibitem[Schiesser(1991)]{Schiesser1991}
+W~Schiesser.
+\newblock \emph{{The Numerical Method of Lines: Integration of Partial
+  Differential Equations}}.
+\newblock Academic Press, San Diego, 1991.
+
+\bibitem[Schneider et~al.(2012)Schneider, Rasband, and Eliceiri]{Schneider2012}
+C~A Schneider, W~S Rasband, and K~W Eliceiri.
+\newblock {NIH Image to ImageJ: 25 years of image analysis}.
+\newblock \emph{Nat. Methods}, 9\penalty0 (7):\penalty0 671--675, 2012.
+
+\bibitem[Scriven and Sternling(1960)]{Scriven1960Nature}
+L~E Scriven and CV~Sternling.
+\newblock {The marangoni effects}.
+\newblock \emph{Nature}, 187\penalty0 (4733):\penalty0 186--188, 1960.
+
+\bibitem[Seemann et~al.(2011)Seemann, Brinkmann, Herminghaus, Khare, Law,
+  McBride, Kostourou, Gurevich, Bommer, Herrmann, and
+  Michler]{Seemann2011JPhysCondMat}
+R~Seemann, M~Brinkmann, S~Herminghaus, K~Khare, B~M Law, S~McBride,
+  K~Kostourou, E~Gurevich, S~Bommer, C~Herrmann, and D~Michler.
+\newblock {Wetting morphologies and their transitions in grooved substrates}.
+\newblock \emph{J. Phys. Condens. Matter}, 23\penalty0 (18):\penalty0
+  184108--17, 2011.
+
+\bibitem[Shampine(2007)]{Shampine2007ACM}
+L~F Shampine.
+\newblock {Accurate numerical derivatives in MATLAB}.
+\newblock \emph{ACM Trans. Math. Softw.}, 33\penalty0 (4):\penalty0 26, 2007.
+
+\bibitem[Shastry et~al.(2006)Shastry, Case, and
+  B{\"o}hringer]{Shastry2006Langmuir}
+A~Shastry, M~J Case, and K~F B{\"o}hringer.
+\newblock {Directing droplets using microstructured surfaces}.
+\newblock \emph{Langmuir}, 22\penalty0 (14):\penalty0 6161--6167, 2006.
+
+\bibitem[Sheather(2004)]{Sheather2004StatSci}
+S~J Sheather.
+\newblock {Density estimation}.
+\newblock \emph{Stat. Sci.}, 19\penalty0 (4):\penalty0 588--597, 2004.
+
+\bibitem[Simpson et~al.(2015)Simpson, Hunter, and
+  Aytug]{Simpson2015RepProgPhys}
+J~T Simpson, S~R Hunter, and T~Aytug.
+\newblock {Superhydrophobic materials and coatings: a review}.
+\newblock \emph{Rep. Prog. Phys.}, 78\penalty0 (8):\penalty0 086501--15, 2015.
+
+\bibitem[Singh et~al.(2014)Singh, Lister, and Vella]{Singh2014JFM}
+K~Singh, J~R Lister, and D~Vella.
+\newblock {A fluid-mechanical model of elastocapillary coalescence}.
+\newblock \emph{J. Fluid Mech.}, 745:\penalty0 621--646, 2014.
+
+\bibitem[Son et~al.(2003)Son, Martys, Hagedorn, and
+  Migler]{Son2003Macromolecules}
+Y~Son, N~S Martys, J~G Hagedorn, and K~B Migler.
+\newblock {Suppression of capillary instability of a polymeric thread via
+  parallel plate confinement}.
+\newblock \emph{Macromolecules}, 36\penalty0 (15):\penalty0 5825--5833, 2003.
+
+\bibitem[Squires and Quake(2005)]{Squires2005RevModPhys}
+T~M Squires and S~R Quake.
+\newblock {Microfluidics: Fluid physics at the nanoliter scale}.
+\newblock \emph{Rev. Mod. Phys.}, 77\penalty0 (3):\penalty0 977--1026, 2005.
+
+\bibitem[Srinivasarao et~al.(2001)Srinivasarao, Collings, Philips, and
+  S]{Srinivasarao2001Science}
+M~Srinivasarao, D~Collings, A~Philips, and Patel S.
+\newblock {Three-dimensionally ordered array of air bubbles in a polymer film}.
+\newblock \emph{Science}, 292\penalty0 (5514):\penalty0 79--83, 2001.
+
+\bibitem[Stauffer(1965)]{Stauffer1965Pendant}
+C~E Stauffer.
+\newblock {The measurement of surface tension by the pendant drop technique}.
+\newblock \emph{J. Phys. Chem.}, 69\penalty0 (6):\penalty0 1933--1938, 1965.
+
+\bibitem[Style et~al.(2013)Style, Che, Park, Weon, Je, Hyland, German, Power,
+  Wilen, Wettlaufer, and Dufresne]{Style2013PNAS}
+R~W Style, Y~Che, S~J Park, B~M Weon, J~H Je, C~Hyland, G~K German, M~Power,
+  L~A Wilen, J~S Wettlaufer, and E~R Dufresne.
+\newblock {Patterning droplets with durotaxis}.
+\newblock \emph{Proc. Natl. Acad. Sci.}, 110\penalty0 (31):\penalty0
+  12541--12544, 2013.
+
+\bibitem[Style et~al.(2017)Style, Jagota, Hui, and
+  Dufresne]{Style2017AnnRevCondMatPhs}
+R~W Style, A~Jagota, C-Y Hui, and E~R Dufresne.
+\newblock {Elastocapillarity: Surface Tension and the Mechanics of Soft
+  Solids}.
+\newblock \emph{Annu. Rev. Condens. Matter Phys}, 8\penalty0 (1):\penalty0
+  99--118, 2017.
+
+\bibitem[Tait and Kelvin(1883)]{Tait1883}
+P~G Tait and L~Kelvin.
+\newblock \emph{{Treatise on Natural Philosophy, Vol 1, Part 2}}.
+\newblock Cambridge University Press, 1883.
+
+\bibitem[Takamura et~al.(2012)Takamura, Fischer, and
+  Morrow]{Takamura2012JPetSci}
+K~Takamura, H~Fischer, and N~R Morrow.
+\newblock {Physical properties of aqueous glycerol solutions}.
+\newblock \emph{J. Petr. Sci. Eng.}, 98:\penalty0 50--60, 2012.
+
+\bibitem[Tanaka et~al.(1993)Tanaka, Morigami, and Atoda]{Tanaka1993}
+T~Tanaka, M~Morigami, and N~Atoda.
+\newblock {Mechanism of resist pattern collapse during development process}.
+\newblock \emph{Jpn. J. Appl. Phys.}, 32:\penalty0 6059, 1993.
+
+\bibitem[Taroni and Vella(2012)]{Taroni2012JFM}
+M~Taroni and D~Vella.
+\newblock {Multiple equilibria in a simple elastocapillary system}.
+\newblock \emph{J. Fluid Mech.}, 712:\penalty0 273--294, 2012.
+
+\bibitem[Thomson(1855)]{Thomson1855}
+J~Thomson.
+\newblock {XLII. On certain curious motions observable at the surfaces of wine
+  and other alcoholic liquors}.
+\newblock \emph{Philos. Mag.}, 10:67:\penalty0 330--333, 1855.
+
+\bibitem[Timoshenko and Woinowsky-Krieger(1959)]{Timoshenko1959}
+S.~Timoshenko and S.~Woinowsky-Krieger.
+\newblock \emph{Theory of Plates and Shells}.
+\newblock McGraw-Hill, 1959.
+
+\bibitem[van Honschoten et~al.(2007)van Honschoten, Escalante, Tas, Jansen, and
+  Elwenspoek]{vanHonschoten2007JApplPhys}
+J~W van Honschoten, M~Escalante, N~R Tas, H~V Jansen, and M~Elwenspoek.
+\newblock {Elastocapillary filling of deformable nanochannels}.
+\newblock \emph{J. Appl. Phys.}, 101\penalty0 (9):\penalty0 094310--7, 2007.
+
+\bibitem[Varanasi et~al.(2009)Varanasi, Hsu, Bhate, Yang, and
+  Deng]{Varanasi2009APL}
+K~K Varanasi, M~Hsu, N~Bhate, Wensha Yang, and T~Deng.
+\newblock {Spatial control in the heterogeneous nucleation of water}.
+\newblock \emph{Appl. Phys. Lett.}, 95\penalty0 (9):\penalty0 094101--5, 2009.
+
+\bibitem[Vella and Mahadevan(2005)]{Vella2005AJP}
+D~Vella and L~Mahadevan.
+\newblock {The {\textquotedblleft}Cheerios effect{\textquotedblright}}.
+\newblock \emph{Am. J. Phys.}, 73\penalty0 (9):\penalty0 817--825, 2005.
+
+\bibitem[Wang et~al.(2015)Wang, Yao, Liu, Qu{\'e}r{\'e}, and
+  Jiang]{Wang2015PNAS}
+Q~Wang, X~Yao, H~Liu, D~Qu{\'e}r{\'e}, and L~Jiang.
+\newblock {Self-removal of condensed water on the legs of water striders}.
+\newblock \emph{Proc. Natl. Acad. Sci.}, 112\penalty0 (30):\penalty0
+  9247--9252, 2015.
+
+\bibitem[Washburn(1921)]{Washburn1921PhysRev}
+E~W Washburn.
+\newblock {The dynamics of capillary flow}.
+\newblock \emph{Phys. Rev.}, 17\penalty0 (3):\penalty0 273--283, 1921.
+
+\bibitem[Wei and Mahadevan(2014)]{Wei2014EPL}
+Z~Wei and L~Mahadevan.
+\newblock {Continuum dynamics of elastocapillary coalescence and arrest}.
+\newblock \emph{Europhys. Lett.}, 106\penalty0 (1):\penalty0 14002--6, 2014.
+
+\bibitem[Wei et~al.(2015)Wei, Schneider, Kim, Kim, Aizenberg, and
+  Mahadevan]{Wei2015PRSA}
+Z~Wei, T~M Schneider, J~Kim, H~Y Kim, J~Aizenberg, and L~Mahadevan.
+\newblock {Elastocapillary coalescence of plates and pillars}.
+\newblock \emph{Proc. Royal Soc. A}, 471\penalty0 (2175):\penalty0 20140593,
+  2015.
+
+\bibitem[Wenzel(1949)]{Wenzel1949JPhysChem}
+R~N Wenzel.
+\newblock {Surface roughness and contact angle.}
+\newblock \emph{J. Phys. Chem.}, 53\penalty0 (9):\penalty0 1466--1467, 1949.
+
+\bibitem[Wisdom et~al.(2013)Wisdom, Watson, Qu, Liu, Watson, and
+  Chen]{Wisdom2013PNAS}
+K~M Wisdom, J~A Watson, X~Qu, F~Liu, G~S Watson, and C-H Chen.
+\newblock {Self-cleaning of superhydrophobic surfaces by self-propelled jumping
+  condensate}.
+\newblock \emph{Proc. Nat. Acad. Sci.}, 110(20):\penalty0 7992--7997, 2013.
+
+\bibitem[Wong et~al.(2011)Wong, Kang, Tang, Smythe, Hatton, Grinthal, and
+  Aizenberg]{Wong2011Nature}
+T-S Wong, S~H Kang, S~K~Y Tang, E~J Smythe, B~D Hatton, A~Grinthal, and
+  J~Aizenberg.
+\newblock {Bioinspired self-repairing slippery surfaces with pressure-stable
+  omniphobicity}.
+\newblock \emph{Nature}, 477\penalty0 (7365):\penalty0 443--447, 2011.
+
+\bibitem[Xu et~al.(2016)Xu, Lan, Peng, Wen, and Ma]{Xu2016RSCadv}
+W~Xu, Z~Lan, B~L Peng, R~F Wen, and X~H Ma.
+\newblock {Effect of nano structures on the nucleus wetting modes during water
+  vapour condensation: from individual groove to nano-array surface}.
+\newblock \emph{RSC Adv.}, 6\penalty0 (10):\penalty0 7923--7932, 2016.
+
+\bibitem[Yager et~al.(2006)Yager, Edwards, Fu, Helton, Nelson, Tam, and
+  Weigl]{Yager2006Nature}
+P~Yager, T~Edwards, E~Fu, K~Helton, K~Nelson, M~R Tam, and B~H Weigl.
+\newblock {Microfluidic diagnostic technologies for global public health}.
+\newblock \emph{Nature}, 442\penalty0 (7101):\penalty0 412--418, 2006.
+
+\bibitem[Young(1805)]{Young1805PhilosTrans}
+T~Young.
+\newblock {III. An essay on the cohesion of fluids}.
+\newblock \emph{Philos. Trans. R. Soc. London}, 95:\penalty0 65--87, 1805.
+
+\bibitem[Zhao et~al.(2003)Zhao, Wang, and and]{Zhao2003}
+Y~P Zhao, L~S Wang, and TX~Yu and.
+\newblock {Mechanics of adhesion in MEMS{\textemdash}a review}.
+\newblock \emph{J. Adhes. Sci. Technol.}, 17\penalty0 (4):\penalty0 519--546,
+  2003.
+
+\bibitem[Zhornitskaya and Bertozzi(2006)]{Zhornitskaya2006SIAMNA}
+L~Zhornitskaya and A~L Bertozzi.
+\newblock {Positivity-preserving numerical schemes for lubrication-type
+  equations}.
+\newblock \emph{SIAM J. Numer. Anal.}, 37\penalty0 (2):\penalty0 523--555,
+  2006.
+
+\end{thebibliography}
